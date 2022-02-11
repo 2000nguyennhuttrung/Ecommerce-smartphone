@@ -1,0 +1,353 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "name": "Iphone 12 Pro Max",
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382721010154236_ip-12-pro-max-dd.png",
+      "price": 29499000,
+      "quantity": 2
+    },
+    {
+      "id": 3,
+      "name": "IPhone 11",
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370871358_ip-11-dd.png",
+      "price": 15999000,
+      "quantity": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "trademark": "Iphone",
+      "name": "Iphone 12 Pro Max",
+      "price": 29499000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382721010154236_ip-12-pro-max-dd.png",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382725406081030_ip-12-pro-max-vang-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382726336418025_ip-12-pro-max-xanh-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382721010919445_ip-12-pro-max-bac-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382722428508593_ip-12-pro-max-xam-1.png"
+      ],
+      "video": "https://www.youtube.com/embed/cnXapYkboRQ",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "OLED",
+          "pixelRadio": "2778 x 1284 Pixel",
+          "screenSize": "6.7 inch",
+          "brightness": "1200 nits"
+        },
+        "camera": {
+          "frontCamera": "12.0 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A14 Bionic 6 nhân",
+          "speed": "3.1 GHz"
+        },
+        "memory": {
+          "ram": "6 GB",
+          "rom": "128 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "trademark": "Iphone",
+      "name": "Iphone XR",
+      "price": 11999000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370716242_ip-xr-dd.png",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2018/10/11/636748797174925889_iphone-Xr-den.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2018/12/24/636812432713875725_ip-xr-den-2.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2018/12/24/636812432713563751_ip-xr-den-3.png"
+      ],
+      "video": "https://www.youtube.com/embed/etGnGM6if6M",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "IPS LCD",
+          "pixelRadio": "828 x 1792 pixel",
+          "screenSize": "6.1 inch",
+          "brightness": "625 nits"
+        },
+        "camera": {
+          "frontCamera": "7.0 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A12 Bionic 6 nhân",
+          "speed": "2 nhân 2.5 GHz & 4 nhân 1.6 GHz"
+        },
+        "memory": {
+          "ram": "3 GB",
+          "rom": "64 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "trademark": "Iphone",
+      "name": "IPhone 11",
+      "price": 15999000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370871358_ip-11-dd.png",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652457717299_11-den.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652463173144_11-xanh.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652462548298_11-trang.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652463329577_11-do.png"
+      ],
+      "video": "https://www.youtube.com/embed/i6AqWJE89rc",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "IPS LCD",
+          "pixelRadio": "828 x 1792 pixels",
+          "screenSize": "6.1 inch",
+          "brightness": ""
+        },
+        "camera": {
+          "frontCamera": "12.0 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A13 Bionic 6 nhân",
+          "speed": "2.65 GHz"
+        },
+        "memory": {
+          "ram": "4 GB",
+          "rom": "64 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "trademark": "Iphone",
+      "name": "IPhone 12",
+      "price": 18999000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/1/637686973775896947_ip-12-dd.jpg",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632990998957_ip-12-xanhduong-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632990998957_ip-12-xanhla-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632991154975_ip-12-den-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632991467615_ip-12-do-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546100127716608_iphone-12-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632991154975_ip-12-trang-1.png"
+      ],
+      "video": "https://www.youtube.com/embed/65JrtwtTOdc",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "IPS LCD",
+          "pixelRadio": "1170 x 2532 Pixels",
+          "screenSize": "6.1 inch",
+          "brightness": "1200 nits"
+        },
+        "camera": {
+          "frontCamera": "12.0 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A14 Bionic 6 nhân",
+          "speed": "3.10 GHz"
+        },
+        "memory": {
+          "ram": "4 GB",
+          "rom": "64 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "trademark": "Iphone",
+      "name": "IPhone 12 Pro",
+      "price": 26499000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382695935086033_ip-12-pro-dd.png",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382704773830272_ip-12-pro-vang-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382706652697887_ip-12-pro-xanh-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382697371502756_ip-12-pro-bac-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382702860556502_ip-12-pro-xam-1.png"
+      ],
+      "video": "https://www.youtube.com/embed/cnXapYkboRQ",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "OLED",
+          "pixelRadio": "1170 x 2532 Pixels",
+          "screenSize": "6.1 inch",
+          "brightness": "1200 nits"
+        },
+        "camera": {
+          "frontCamera": "12.0 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A14 Bionic 6 nhân",
+          "speed": "3.10 GHz"
+        },
+        "memory": {
+          "ram": "6 GB",
+          "rom": "128 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "trademark": "Iphone",
+      "name": "IPhone 12 Mini",
+      "price": 15999000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/1/637686973937774079_ip-12-dd.jpg",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382660302802108_ip-12-mini-den-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/11/27/637420740261268975_iphone-12-12-mini.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/11/27/637420740261268975_Untitled-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382685853301140_ip-12-mini-trang-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382692095648477_ip-12-mini-xanhla-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382693361641401_ip-12-mini-xanhduong-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546102909980453_iphone-12-min-tim-1.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382687395195971_ip-12-mini-do-1.png"
+      ],
+      "video": "https://www.youtube.com/embed/65JrtwtTOdc",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "OLED",
+          "pixelRadio": "1080 x 2340 Pixel",
+          "screenSize": "5.4 inch",
+          "brightness": "1203 nits"
+        },
+        "camera": {
+          "frontCamera": "12.0 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A14 Bionic 6 nhân",
+          "speed": "3.10 GHz"
+        },
+        "memory": {
+          "ram": "4 GB",
+          "rom": "64 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "trademark": "Iphone",
+      "name": "IPhone SE(2020)",
+      "price": 10999000,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/4/21/637230565234443213_ip-se-dd.png",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/6/11/637274741787935510_2 iphone-se-black-select-2020.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/6/11/637274741787815457_iphone-se-family-select-2020.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/6/11/637274741787685456_iphone-se-red-select-2020.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/6/11/637274741787675449_iphone-se-black-select-2020.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/6/11/637274741787935510_1 iphone-se-black-select-2020.jpg"
+      ],
+      "video": "https://www.youtube.com/embed/SQIbeAk-bFA",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "IPS LCD",
+          "pixelRadio": "750 x 1334 Pixel",
+          "screenSize": "4.7 inch",
+          "brightness": "625 nits"
+        },
+        "camera": {
+          "frontCamera": "7 MP",
+          "rearCamera": "12.0 MP"
+        },
+        "cpu": {
+          "cpu": "iOS 14",
+          "chip": "Apple A13 Bionic 6 nhân",
+          "speed": "2.65 GHz"
+        },
+        "memory": {
+          "ram": "3 GB",
+          "rom": "64 GB",
+          "sdCard": "Không"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "trademark": "Samsung",
+      "name": "Samsung Note20 Ultra",
+      "price": 800,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/5/637322682439532348_ss-note-20-ultra-5g-gold-dd.png",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/5/637322686294422878_ss-note-20-ultra-den-1.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/5/637322686294812939_ss-note-20-ultra-den-2.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/5/637322686293412971_ss-note-20-ultra-den-3.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/6/637323012373048454_ss-note-20-ultra-den-5.png",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/6/637323012373018045_ss-note-20-ultra-den-6.png"
+      ],
+      "video": "https://www.youtube.com/embed/cAevNWUAO0Y",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "Dynamic AMOLED 2X",
+          "pixelRadio": "2K+ (1440 x 3088 Pixels)",
+          "screenSize": "6.9 - Tần số quét 120 Hz",
+          "brightness": "1500 nits"
+        },
+        "camera": {
+          "frontCamera": "10 MP",
+          "rearCamera": "Chính 108 MP & Phụ 12 MP, 12 MP, cảm biến Laser AF"
+        },
+        "cpu": {
+          "cpu": "Android 10",
+          "chip": "Exynos 990 8 nhân",
+          "speed": "2 nhân 2.73 GHz, 2 nhân 2.5 GHz & 4 nhân 2.0 Ghz"
+        },
+        "memory": {
+          "ram": "8 GB",
+          "rom": "256 GB",
+          "sdCard": "MicroSD, hỗ trợ tối đa 1 TB"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "trademark": "Xiaomi",
+      "name": "Xiaomi Redmi Note 10S",
+      "price": 700,
+      "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/5/18/637569709583556232_xiaomi-note10s-xam-dd.jpg",
+      "imageListSlide": [
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/27/637683352742070354_xiaomi-redmi-note-10s-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/26/637682610161171188_xiaomi-redmi-note-10s-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/27/637683352735664112_xiaomi-redmi-note-10s-tim-5.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/27/637683352742070354_xiaomi-redmi-note-10s-tim-3.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/26/637682610161171188_xiaomi-redmi-note-10s-tim-4.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/27/637683352735664112_xiaomi-redmi-note-10s-tim-5.jpg"
+      ],
+      "video": "https://www.youtube.com/embed/cAevNWUAO0Y",
+      "infoPhone": {
+        "screen": {
+          "screenTech": "",
+          "pixelRadio": "",
+          "screenSize": "",
+          "brightness": ""
+        },
+        "camera": {
+          "frontCamera": "",
+          "rearCamera": ""
+        },
+        "cpu": {
+          "cpu": "",
+          "chip": "",
+          "speed": ""
+        },
+        "memory": {
+          "ram": "",
+          "rom": "",
+          "sdCard": ""
+        }
+      }
+    }
+  ]
+}

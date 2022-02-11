@@ -1,0 +1,8 @@
+.active {
+  font-weight: bold;
+}
+
+.link {
+  text-decoration: none;
+  color: #707071;
+}

@@ -1,0 +1,6 @@
+export const FETCH_BILL_SUCCESS = 'FETCH_BILL_SUCCESS';
+export const FETCH_BILL_FAIL = 'FETCH_BILL_FAIL';
+
+export const ADD_TO_BILL_SUCCESS = 'ADD_TO_BILL_SUCCESS';
+export const ADD_TO_BILL_FAIL = 'ADD_TO_BILL_FAIL';
+
